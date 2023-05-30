@@ -54,3 +54,6 @@ dkms.conf
 # Automation scripts
 *.mk
 *.sh
+
+# IDE files
+.vscode

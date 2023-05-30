@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "calgebra.h": "c",
+    "rbtree.h": "c"
+  },
+  "files.exclude": {
+    ".vscode": true
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
